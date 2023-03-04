@@ -28,10 +28,3 @@ which will hopefully give me a good base in Python.
 ### Project 6: Implement Linked List
 
 
-## Python Libraries
-
-### Pandas
-
-### Numpy
-
-### MatPlotLib
