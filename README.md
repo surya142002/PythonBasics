@@ -20,11 +20,11 @@ which will hopefully give me a good base in Python.
 This was very straightforward. 
 
 I had to search how to find a random number...
-'''
+```python
 # random number from 1 to 100 (inclusive)
 import random
 target = random.randint(1, 100)
-'''
+```
 
 I also forgot about converting integers to strings before printing them
 This is easily done with str() function
