@@ -17,6 +17,20 @@ which will hopefully give me a good base in Python.
 
 ### Project 1: Number Guessing Game
 
+This was very straightforward. 
+
+I had to search how to find a random number...
+'''
+# random number from 1 to 100 (inclusive)
+import random
+target = random.randint(1, 100)
+'''
+
+I also forgot about converting integers to strings before printing them
+This is easily done with str() function
+
+When using a for loop or any other situation, range(1, 11) would include numbers from 1 to 10 
+
 ### Project 2: Rock Paper Scissors
 
 ### Project 3: Hangman
