@@ -49,6 +49,26 @@ I needed to define the function before I could use it in my code.
 
 ### Project 3: Hangman
 
+I got to play around with strings for this project. 
+I figured out how to print without a new line character as well.
+```python
+print("blah blah", end =" ")
+```
+
+I was too lazy to draw a whole hanging dude so I just made
+a fake bullet instead. The quit() function is useful to end the program whenever
+I need to.
+
+I made use of lists and learned to append and search 
+within a list. After learning C, strings are so much
+easier to learn in Python. There are so many powerful
+functions. 
+
+"in" is also very powerful in if statements. 
+I needed this to search whether guesses were accurate.
+
+This was a simple yet fun little project.
+
 ### Project 4: Password Generator
 
 ### Project 5: Tic Tac Toe
