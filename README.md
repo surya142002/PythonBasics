@@ -33,6 +33,20 @@ When using a for loop or any other situation, range(1, 11) would include numbers
 
 ### Project 2: Rock Paper Scissors
 
+This was a pretty simple concept because I already understood "random"
+
+I wanted to use a dictionary to store the values
+
+```python
+valueDict = {1: "Rock", 2: "Paper", 3: "Scissor"}
+
+# this was how I accessed value from dict
+print("Tie Game Both Picked: " + str(valueDict[computer]))
+```
+I decided to use a function to check the winner.
+I forgot that there were no main methods built into python because it is a scripting language.
+I needed to define the function before I could use it in my code.
+
 ### Project 3: Hangman
 
 ### Project 4: Password Generator
