@@ -10,6 +10,10 @@ Hopefully documenting my progress will do some good... I will also learn source 
 I have spent a fair deal of time watching tutotials on Python syntax.
 It is time to get off my a$$ and actually implement/solidify my knowledge.
 
+https://www.youtube.com/watch?v=rfscVS0vtbw (My Favorite!!)
+
+Shoutout to that guy ^^^
+
 ## Simple Projects
 
 I searched around for the best projects to work on and found some simple projects 
