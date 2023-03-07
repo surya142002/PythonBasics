@@ -75,6 +75,21 @@ This was a simple yet fun little project.
 
 ### Project 4: Password Generator
 
+This was straightforward and much easier than Hangman.
+
+The only problem I had was figuring out how to efficiently
+generate a random letter. I chose to use the String class
+for that. 
+
+```python
+import random
+import string
+
+random.choice(string.ascii_letters)
+```
+
+The above code returned a random letter from a-z.
+
 ### Project 5: Tic Tac Toe
 
 ### Project 6: Implement Linked List
