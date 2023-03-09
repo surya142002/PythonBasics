@@ -107,7 +107,6 @@ to increment ranges to have more flexibility in a for loop.
 for i in range(0,7,3):
 ```
 
-
 ### Project 6: Implement Linked List
 
 
