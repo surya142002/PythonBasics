@@ -92,6 +92,22 @@ The above code returned a random letter from a-z.
 
 ### Project 5: Tic Tac Toe
 
+Tic Tac Toe was a bit more complicated because I had to
+develop methods to constantly keep the board updated and
+check for winners. 
+
+The concepts were overall straightforward. I made use
+of the "continue" command as well as learning how
+to increment ranges to have more flexibility in a for loop.
+
+```python
+# below code starts at 0 and increments by
+# 3 positions (0, 3, 6) 
+# Useful in checking for vertical winners
+for i in range(0,7,3):
+```
+
+
 ### Project 6: Implement Linked List
 
 
